@@ -8,7 +8,7 @@ The videos show LISA orbiting the sun while a Gravitational wave is traveling pe
 
 In the corner we show the change of distance between the three satellites of LISA with a view locked to the center of LISA and perpendicular to the plane of the three satellites. This change of distance is LISA's measurement of the Gravitational wave.
 
-It is recommended to download the videos for proper display since viewing the vidoes in the browser are zoomed in.
+It is recommended to download the videos for proper display since viewing the videos in the browser are zoomed in.
 
 # Picture
 LISA’s constellation is pictured at eight different points in time with 1.5 month intervals.
